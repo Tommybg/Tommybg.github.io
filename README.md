@@ -1,4 +1,4 @@
-# 👀 Tommy Baron 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Impact&size=19&duration=5003&pause=1000&color=F71F0A&center=true&vCenter=true&width=435&lines=Tomas+Baron+Galvis;Always+striving+to+improve+daily.;Curious+ML+Engineer+from+LATAM;Content+Creator+for+LATAM)](https://git.io/typing-svg)
 
 **`Curious Learner on a mission to help others`**
 

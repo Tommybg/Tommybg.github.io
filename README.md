@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Impact&size=19&duration=5003&pause=1000&color=F71F0A&center=true&vCenter=true&width=435&lines=Tomas+Baron+Galvis;Always+striving+to+improve+daily.;Curious+ML+Engineer+from+LATAM;Content+Creator+for+LATAM)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=19&duration=5003&pause=1000&color=F71F0A&center=true&vCenter=true&width=700&height=100&lines=Tomas+Baron+Galvis;Always+striving+to+improve+daily.;Curious+ML+Engineer+from+LATAM;Content+Creator+for+LATAM" alt="Typing SVG" /></a> 
+  
 **`Curious Learner on a mission to help others`**
 
 I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my Instagram [instagram] and LinkedIn [linkedin], I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.

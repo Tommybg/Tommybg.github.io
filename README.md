@@ -1,4 +1,5 @@
 **`Curious Learner on a mission to help others 🌎🫡`**
+
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/veritablestudios/colored-icons@1.7.8/src/app/ci.min.css"
@@ -7,11 +8,13 @@
 <p align="center">
   <!-- Name Section -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=5BBFFFFF&center=true&vCenter=true&repeat=false&width=300&lines=Tomas+Baron+Galvis" alt="Typing SVG" /></a>
-</p> 
+</p>
+
 <!-- Facts Section -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=5BBFFFFF&center=true&vCenter=true&width=300&lines=Data+Scientist+and+ML+Engineer+;Always+Striving+to+improve+daily+;Contet+Creator+for+LATAM" alt="Typing SVG" /></a> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=5BBFFFFF&center=true&vCenter=true&width=300&lines=Data+Scientist+and+ML+Engineer+;Always+Striving+to+improve+daily+;Content+Creator+for+LATAM" alt="Typing SVG" /></a>
 </p>
+
 <!-- Social Section -->
 <p align="center">
    <a href="https://instagram.com/yourusername" target="_blank"><i class="ci ci-instagram ci-2x"></i></a>

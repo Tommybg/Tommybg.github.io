@@ -1,7 +1,3 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/veritablestudios/colored-icons@1.7.8/src/app/ci.min.css"
-/>
 **`Curious Learner on a mission to help others`**
 <p align="center">
   <!-- Name Section -->

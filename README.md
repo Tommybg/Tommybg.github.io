@@ -1,4 +1,4 @@
-**`Curious Learner on a mission to help others`**
+**`Curious Learner on a mission to help others 🌎🫡`**
 <p align="center">
   <!-- Name Section -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=5BBFFFFF&center=true&vCenter=true&repeat=false&width=300&lines=Tomas+Baron+Galvis" alt="Typing SVG" /></a>

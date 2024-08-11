@@ -1,3 +1,7 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/veritablestudios/colored-icons@1.7.8/src/app/ci.min.css"
+/>
 <p align="center">
   <!-- Name Section -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=5BBFFFFF&center=true&vCenter=true&repeat=false&width=300&lines=Tomas+Baron+Galvis" alt="Typing SVG" /></a>
@@ -8,11 +12,10 @@
 </p>
 <!-- Social section -->
 <p align="center">
-  <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/veritablestudios/colored-icons@1.7.8/src/app/ci.min.css"
-/>
    <i class="ci ci-instagram ci-2x"></i>
+   <i class="ci ci-linkedin ci-md"></i>
+   <i class="ci ci-twitter ci-md"></i>
+
 
   </p> 
 **`Curious Learner on a mission to help others`**

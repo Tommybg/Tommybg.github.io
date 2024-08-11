@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=19&duration=5003&pause=1000&color=F71F0A&center=true&vCenter=true&width=700&height=100&lines=Tomas+Baron+Galvis;Always+striving+to+improve+daily.;Curious+ML+Engineer+from+LATAM;Content+Creator+for+LATAM" alt="Typing SVG" /></a> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=CA2B06&center=true&vCenter=true&repeat=false&width=300&lines=Tomas+Baron+Galvis" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=CA2B06&center=true&vCenter=true&width=300&lines=Data+Scientist+and+ML+Engineer+;Always+Striving+to+improve+daily+;Contet+Creator+for+LATAM" alt="Typing SVG" /></a> 
+  
   
 **`Curious Learner on a mission to help others`**
 

@@ -1,5 +1,5 @@
 <!-- Intro Section -->
-**`Curious Learner on a mission to help others 🌎🫡`**
+<span style="color: #ffffff;">**`Curious Learner on a mission to help others 🌎🫡`**</span>
 
 <p align="center">
   <!-- Name Section -->

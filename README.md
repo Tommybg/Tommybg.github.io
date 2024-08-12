@@ -26,7 +26,7 @@
 
 <!-- Tech Stack Section -->
 <p align="left  style="margin-top: 30px;"> 
-  <h2> TECH STACK <h2>
+  <h2> TECH STACK </h2>
   <img alt="Python" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />

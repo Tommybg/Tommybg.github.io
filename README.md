@@ -14,7 +14,7 @@
 <p align="center" style="margin-top: 30px;">
   <!-- Social Section -->
   <a href="https://www.instagram.com/t0mas_baron_/" target="_blank">
-    <img alt="Instagram" width="60px" style="padding-right:15px;" src="(https://img.icons8.com/ size=100&id=0wr4dYtBFwHA&format=png&color=FFFFFF" />
+    <img alt="Instagram" width="60px" style="padding-right:15px;" src="https://img.icons8.com/ size=100&id=0wr4dYtBFwHA&format=png&color=FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/in/tomasbaron/" target="_blank">
     <img alt="LinkedIn" width="60px" style="padding-right:15px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />

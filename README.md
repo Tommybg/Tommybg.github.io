@@ -26,7 +26,7 @@
 
 <!-- Tech Stack Section -->
 <p align="left  style="margin-top: 30px;"> 
-  <h2> TECH STACK </h2>
+  <h2> TECH STACK <h2>
   <img alt="Python" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
@@ -35,7 +35,7 @@
 </p>
 
 <!-- About Me Section -->
-<p align="center" style="margin-top: 50px;">
+<p align="center" style="margin-top: 40px;">
   I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my <a href="https://www.instagram.com/t0mas_baron_/" target="_blank">Instagram</a> and <a href="https://www.linkedin.com/in/tomasbaron/" target="_blank">LinkedIn</a>, I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.
 </p>
 

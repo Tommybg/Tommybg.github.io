@@ -24,9 +24,10 @@
   </a>
 </p>
 
-<h2 style="color: #5BBFFF;">ABOUT ME 👀</h2>
-<!-- About Me Section -->
-I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my [instagram] and [linkedin], I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.
+## ABOUT ME 👀
+
+I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my [Instagram](https://www.instagram.com/t0mas_baron_/) and [LinkedIn](https://www.linkedin.com/in/tomasbaron/), I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.
+
 
 
 <h2 style="color: #5BBFFF;">TECH STACK</h2>
@@ -38,9 +39,3 @@ I am a curious ML Engineer and Content Creator on a mission to develop solutions
   <img alt="Jupyter" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
   <img alt="Anaconda" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> 
 </div>
-
-
-[instagram] = https://www.instagram.com/t0mas_baron_/ 
-[linkedin] = https://www.linkedin.com/in/tomasbaron/ 
-
-

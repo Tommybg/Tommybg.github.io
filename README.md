@@ -26,7 +26,7 @@
 
 <h2 style="color: #5BBFFF;">ABOUT ME 👀</h2>
 <!-- About Me Section -->
-I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my <a href="https://www.instagram.com/t0mas_baron_/" target="_blank">Instagram</a> and <a href="https://www.linkedin.com/in/tomasbaron/" target="_blank">LinkedIn</a>, I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.
+I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my [instagram] and [linkedin], I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.
 
 
 <h2 style="color: #5BBFFF;">TECH STACK</h2>
@@ -40,5 +40,7 @@ I am a curious ML Engineer and Content Creator on a mission to develop solutions
 </div>
 
 
+[instagram] = https://www.instagram.com/t0mas_baron_/ 
+[linkedin] = https://www.linkedin.com/in/tomasbaron/ 
 
 

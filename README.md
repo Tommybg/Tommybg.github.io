@@ -1,5 +1,7 @@
 <!-- Intro Section -->
-**`Curious Learner on a mission to help others 🌎🫡`**
+<p style="color: #5BBFFFFF; font-weight: bold; font-size: 18px;">
+  Curious Learner on a mission to help others 🌎🫡
+</p>
 
 <p align="center">
   <!-- Name Section -->
@@ -11,20 +13,22 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=5BBFFFFF&center=true&vCenter=true&width=300&lines=Data+Scientist+and+ML+Engineer+;Always+Striving+to+improve+daily+;Content+Creator+for+LATAM" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social Section -->
 <p align="center">
-   <a href="https://instagram.com/yourusername" target="_blank"><i class="ci ci-instagram ci-2x"></i></a>
-   <a href="https://linkedin.com/in/yourusername" target="_blank"><i class="ci ci-linkedin ci-2x"></i></a>
-   <a href="https://twitter.com/yourusername" target="_blank"><i class="ci ci-twitter ci-2x"></i></a>
-</p>
+  <!-- Social Section -->
+  <img align="left" alt="Instagram" width="60px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" /> 
+  <img align="left" alt="LinkedIn" width="60px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
+  <img align="left" alt="Twitter" width="60px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" />
 
 <!-- Tech Stack Section -->
 <p align="center">
-<h2>TECH STACK</h2>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<br />
+  <h2>TECH STACK</h2>
+  <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
+  <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> 
+  <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;"
+
 </p>
 
 <!-- About Me Section -->

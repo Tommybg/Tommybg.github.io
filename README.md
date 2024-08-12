@@ -20,7 +20,7 @@
     <img alt="LinkedIn" width="60px" style="padding-right:15px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
   </a>
   <a href="https://x.com/tomas87937890" target="_blank">
-    <img alt="Twitter" width="60px" style="padding-right:15px;" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" />
+    <img alt="Twitter" width="60px" style="padding-right:15px;" src="https://img.icons8.com/?size=100&id=5MQ0gPAYYx7a&format=png&color=000000" />
   </a>
 </p>
 

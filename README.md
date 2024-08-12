@@ -26,13 +26,14 @@
 
 <h2 style="color: #5BBFFF;">TECH STACK</h2>
 <!-- Tech Stack Section -->
-<p align="left  style="margin-top: 30px;"> 
+<div style="margin-top: 30px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
   <img alt="Python" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img alt="Jupyter" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
   <img alt="Anaconda" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> 
-</p>
+</div>
+
 
 <h2 style="color: #5BBFFF;">ABOUT ME 👀</h2>
 <!-- About Me Section -->

@@ -13,11 +13,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/t0mas_baron_/"><img width="50px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=RhYNENh5cxlS&format=png&color=abde50"/></a>
+  <a href="https://www.instagram.com/t0mas_baron_/"><img width="45px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=RhYNENh5cxlS&format=png&color=abde50"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/tomasbaron/" ><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=abde50" /></a> 
+  <a href="https://www.linkedin.com/in/tomasbaron/" ><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=abde50" /></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/tomas87937890" ><img width="50px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=abde50"/></a>
+  <a href="https://x.com/tomas87937890" ><img width="45px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=abde50"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 

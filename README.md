@@ -33,7 +33,7 @@
 
 <h2 style="color: #abde50;">TECH STACK</h2>
 <!-- Tech Stack Section --> 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: center;">
   <img alt="Python" width="40px" style="padding-right:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Git" width="40px" style="padding-right:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="TensorFlow" width="40px" style="padding-right:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> 

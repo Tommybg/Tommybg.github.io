@@ -11,17 +11,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&duration=5001&pause=900&color=abde50&center=true&vCenter=true&width=300&lines=Data+Scientist+and+ML+Engineer+;Always+Striving+to+improve+daily+;Content+Creator+for+LATAM" alt="Typing SVG" /></a>
 </p>
 
-<p align="center" style="margin-top: 30px;">
-  <!-- Social Section -->
-  <a href="https://www.instagram.com/t0mas_baron_/" target="_blank">
-    <img alt="Instagram" width="60px" style="padding-right:15px;" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/tomasbaron/" target="_blank">
-    <img alt="LinkedIn" width="60px" style="padding-right:15px;" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
-  </a>
-  <a href="https://x.com/tomas87937890" target="_blank">
-    <img alt="Twitter" width="60px" style="padding-right:15px;" src="https://img.icons8.com/?size=100&id=5MQ0gPAYYx7a&format=png&color=000000" />
-  </a>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.instagram.com/t0mas_baron_/" ><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#abde50;&#abde50;&#abde50;&#abde50;&#abde50;
+  <a href="https://www.linkedin.com/in/tomasbaron/" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#abde50;&#abde50;&#abde50;&#abde50;&#abde50;
+  <a href="https://x.com/tomas87937890" ><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#abde50;&#abde50;&#abde50;&#abde50;&#abde50;
 </p>
 
 <h2 style="color: #abde50;">ABOUT ME 👀</h2>

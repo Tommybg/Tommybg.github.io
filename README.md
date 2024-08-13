@@ -28,17 +28,17 @@
   I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my <a href="https://www.instagram.com/t0mas_baron/">Instagram</a> and <a href="https://www.linkedin.com/in/tomasbaron/">LinkedIn</a>, I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.
 </p>
 <p align="center">
-  <h2 style="color: #abde50;">TECH STACK</h2>
-<!-- Tech Stack Section --> 
-<div style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: center;">
-  <img alt="Python" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Git" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="TensorFlow" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> 
-  <img alt="KERAS" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" /> 
-  <img alt="Scikit" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img alt="Jupyter" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
-  <img alt="Anaconda" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> 
-  <img alt="SQL" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />  
-  <img alt="streamlit" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
-</div>
+    <h2 style="color: #abde50;">TECH STACK</h2>
+  <!-- Tech Stack Section --> 
+  <div style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: center;">
+    <img alt="Python" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="Git" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="TensorFlow" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> 
+    <img alt="KERAS" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" /> 
+    <img alt="Scikit" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img alt="Jupyter" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
+    <img alt="Anaconda" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> 
+    <img alt="SQL" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />  
+    <img alt="streamlit" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+  </div>
 

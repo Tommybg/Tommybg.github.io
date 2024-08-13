@@ -14,11 +14,8 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.instagram.com/t0mas_baron_/" ><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#abde50;&#abde50;&#abde50;&#abde50;&#abde50;
   <a href="https://www.linkedin.com/in/tomasbaron/" ><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#abde50;&#abde50;&#abde50;&#abde50;&#abde50;
   <a href="https://x.com/tomas87937890" ><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#abde50;&#abde50;&#abde50;&#abde50;&#abde50;
 </p>
 
 <h2 style="color: #abde50;">ABOUT ME 👀</h2>

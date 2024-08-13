@@ -28,20 +28,19 @@
   <img src="my_photo.png" alt="Myself" style="width: 150px; height: auto; margin-right: 20px;" />
   <p>
     I am a curious ML Engineer and Content Creator on a mission to develop solutions that positively impact millions 🌎, leveraging the power of AI with genuine commitment. My goal is to make this impact a reality, one TOKEN at a time, learning every day and building innovative projects focused on helping others. I prioritize rapid shipping and iteration to gain feedback, learn from mistakes, and listen to the community. Through my <a href="https://www.instagram.com/t0mas_baron/">Instagram</a> and <a href="https://www.linkedin.com/in/tomasbaron/">LinkedIn</a>, I share educational content about AI and ML in Spanish, addressing the lack of accessible resources in Spanish-speaking countries. I am dedicated to putting LATAM on the map as a hub of talent.
-  </p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 <h2 style="color: #abde50;">TECH STACK</h2>
 <!-- Tech Stack Section --> 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img alt="Python" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> 
-  <img alt="KERAS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" /> 
-  <img alt="Scikit" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img alt="Jupyter" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
-  <img alt="Anaconda" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> 
-  <img alt="SQL" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />  
-  <img alt="streamlit" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+  <img alt="Python" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Git" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="TensorFlow" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> 
+  <img alt="KERAS" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" /> 
+  <img alt="Scikit" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  <img alt="Jupyter" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
+  <img alt="Anaconda" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> 
+  <img alt="SQL" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />  
+  <img alt="streamlit" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 </div>
 

@@ -1,5 +1,5 @@
 <!-- Intro Section -->
-<span style="color: #ffffff;">**`Dedicated to putting LATAM on the map as a hub of talent. 🌎🫡`**</span>
+<span style="color: #D3D3D3;">**`Dedicated to putting LATAM on the map as a hub of talent. 🌎🫡`**</span>
 
 <p align="center">
   <!-- Name Section -->

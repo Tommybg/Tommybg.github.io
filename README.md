@@ -21,6 +21,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!-- About me section -->
 <h2 style="color: #abde50;">ABOUT ME 👀</h2>
 
 <div class="about-container">
@@ -31,23 +32,25 @@
       </p>
    </div>
 </div>
+
 <style>
    .about-container {
       display: flex;
       align-items: flex-start;
+      margin-top: 20px;  /* Optional: Add space above for visual separation */
    }
+
    .profile-image {
       width: 150px;
       height: auto;
       border-radius: 10%;
-      margin-right: 20px;
+      margin-right: 20px;  /* Space between image and text */
    }
+
    .about-text {
       flex: 1;
    }
 </style>
-</p>
-
 
 <h2 style="color: #abde50;">TECH STACK</h2>
 <!-- Tech Stack Section -->

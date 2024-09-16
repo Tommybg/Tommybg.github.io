@@ -43,3 +43,4 @@
     <img alt="streamlit" width="40px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
   </div>
 
+<h2 style="color: #abde50;"><a href="https://tomasbaron.my.canva.site/portfolio">PORTFOLIO</a></h2>
